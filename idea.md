@@ -1,2 +1,4 @@
 bo
 retopology 
+rigging
+divertente
